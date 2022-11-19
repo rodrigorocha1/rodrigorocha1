@@ -1,7 +1,7 @@
- <h1 align="center"># Olá,sou o Rodrigo 👋</h1>
+ <h1 align="center"># Olá, sou o Rodrigo 👋</h1>
 
 
-- 🔭 Hoje trabalho com PDI, SQL
+- 🔭 Hoje trabalho com Pentaho data Integration, SQL (Consulta Simples)
 - 🌱 Estudando Python, Power BI e  análise de dados
 
 <div align="center">
@@ -10,10 +10,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorocha1&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
 </div>
 
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="rod-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="rod-power_bi" height="30" width="40" src="https://iconscout.com/contributors/hellomill">
- 
+  <img align="center" alt="rod-py" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="rod-power_bi" height="50" width="50" src="https://github.com/microsoft/PowerBI-Icons/raw/main/PNG/Power-BI.png">
+  <img align="center" alt="rod-power_bi" height="50" width="50" src="https://yt3.ggpht.com/ytc/AMLnZu-zHYbfICJDEel0ighDFOcAN4KklMhvHzwaLlbg=s900-c-k-c0x00ffffff-no-rj">
+  <img align="center" alt="rod-sql_server" height="50" width="50" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png">
+  <img align="center" alt="rod-oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 </div>
-  
+
+
  

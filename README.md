@@ -17,6 +17,7 @@
   <img align="center" alt="rod-power_bi" height="50" width="50" src="https://yt3.ggpht.com/ytc/AMLnZu-zHYbfICJDEel0ighDFOcAN4KklMhvHzwaLlbg=s900-c-k-c0x00ffffff-no-rj">
   <img align="center" alt="rod-sql_server" height="50" width="50" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png">
   <img align="center" alt="rod-oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+ <img align="center" alt="rod-plotly" height="50" width="50" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png">
 </div>
 
 

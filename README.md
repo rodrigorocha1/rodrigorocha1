@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Pentaho data Integration, SQL (Consulta Simples), consumo de api
-- 🌱 Estudando Python, Power BI e  análise de dados
+- 🌱 Estudando Python, Dash, Plotly,  Power BI e  análise de dados
 
 <div align="center">
   <a href="https://github.com/rodrigorocha1">

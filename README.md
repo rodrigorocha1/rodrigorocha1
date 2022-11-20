@@ -24,6 +24,8 @@
 <a href="https://www.dadosinfo.com.br/pagina-inicial" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/rodrigo-rocha-dados/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+ #
+ 
  <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/rodrigorocha1/count.svg" />

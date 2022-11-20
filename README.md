@@ -23,6 +23,7 @@
 <h2 align="center"># Contatos</h1>
 <a href="https://www.dadosinfo.com.br/pagina-inicial" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/rodrigo-rocha-dados/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:silva.rodrigo31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  #
  

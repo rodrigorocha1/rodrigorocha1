@@ -1,7 +1,7 @@
  <h1 align="center"># Olá, sou o Rodrigo 👋</h1>
 
 
-- 🔭 Hoje trabalho com Pentaho data Integration, SQL (Consulta Simples)
+- 🔭 Hoje trabalho com Pentaho data Integration, SQL (Consulta Simples), consumo de api
 - 🌱 Estudando Python, Power BI e  análise de dados
 
 <div align="center">
@@ -20,4 +20,6 @@
 </div>
 
 
- 
+ ##
+<a href="https://www.dadosinfo.com.br/pagina-inicial" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/rodrigo-rocha-dados/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
